@@ -1,2 +1,2 @@
-# tic-tac-toe-board
+# tic-tac-toe
 A simple tic tac toe board
